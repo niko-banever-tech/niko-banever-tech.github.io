@@ -1,3 +1,6 @@
+user: glacier
+hostname: cybertech
+
 title: "Glacier's Tech Blog"
 author: "Niko"
 description: "my blog about my journey learning cybersec!" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
