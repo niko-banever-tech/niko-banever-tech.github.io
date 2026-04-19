@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 <div align="center"> <h1> Hello, I'm Glacier! 💡<img src="https://media.tenor.com/8QTiEfTe1RoAAAAj/niko-oneshot.gif" width="40px"> </h1> </div>
 
 <div align="center"> <a href="https://github.com/niko-banever-tech"><img src="https://i.imgur.com/mM8PhKb.gif" align="center"></a> </div>
@@ -32,7 +27,3 @@ title: Home
 </div>
 
 <img src="https://i.imgur.com/DLoG1Sk.png" width="100%" height="20%"> 
-
-{% for post in site.posts %}
-> [{{ post.date | date: "%b %d, %Y" }}] [{{ post.title }}]({{ post.url }})
-{% endfor %}
