@@ -1,6 +1,3 @@
-user: glacier
-hostname: cybertech
-
 title: "Glacier's Tech Blog"
 author: "Niko"
 description: "my blog about my journey learning cybersec!" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
@@ -21,8 +18,7 @@ github_username: "glacier-cybertech"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: "tareqdandachi/jekyll-shell-theme"
-
+theme: "minima"
 rss: rss
 
 kramdown:
