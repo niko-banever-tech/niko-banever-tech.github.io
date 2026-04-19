@@ -1,4 +1,4 @@
-<h1 style="color:hotpink;"> Learning to write blog posts, by writing a blog post </h1>
+# Learning to write blog posts, by writing a blog post {: style="color:hotpink;"}
 
 this will be the first blog post I create! i will be using this blog to document my progress learning cybersecurity and technology as I have a large interest in these fields, and the first step to doing that is actually setting up the blog
 
