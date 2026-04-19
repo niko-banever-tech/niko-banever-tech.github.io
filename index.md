@@ -32,3 +32,7 @@ title: Home
 </div>
 
 <img src="https://i.imgur.com/DLoG1Sk.png" width="100%" height="20%"> 
+
+{% for post in site.posts %}
+> [{{ post.date | date: "%b %d, %Y" }}] [{{ post.title }}]({{ post.url }})
+{% endfor %}
